@@ -20,8 +20,6 @@
  *
  */
 
-// ENV: sanguino_atmega1284p
-
 /**
  * Configuration.h
  *
